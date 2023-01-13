@@ -12,7 +12,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
  * <p/>
  * A unit test aims to test all code and code paths of a specific class.
  */
-public class HelloTest {
+public class HelloTest1 {
 
     @Test
     public void evaluatesExpressionTest() {
