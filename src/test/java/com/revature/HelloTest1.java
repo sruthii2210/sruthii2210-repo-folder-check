@@ -8,10 +8,14 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 
 
 /**
+@Test
+@Test
  * Unit test for Hello.
  * <p/>
  * A unit test aims to test all code and code paths of a specific class.
  */
+//@Test
+//@Test
 public class HelloTest1 {
 
     @Test
