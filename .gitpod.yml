@@ -1,0 +1,7 @@
+tasks:
+  - init: git remote set-url origin git@github.com:sruthii2210/sruthii2210-repo-folder-check.git && sed "s/\r$//" commit-command.sh | bash
+vscode:
+ extensions:
+   - redhat.java
+   - vscjava.vscode-java-debug
+   - Revaturepro-non-prod.revature-labs-non-prod
